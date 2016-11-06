@@ -39,7 +39,7 @@ npm install
 This will install Mocha, which is a cool unit testing library. 
 
 
-*How to run the tests*
+**How to run the tests**
 
 To run the tests just run the following commands in the command line:
 
