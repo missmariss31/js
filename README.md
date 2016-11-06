@@ -24,15 +24,29 @@ This is a repository where Jesse and Marissa program JavaScript.
 
 # Getting Started
 
+> Note: You will need to intall node.js
+> Just download the latest version from https://nodejs.org/en/
+
 In the command line
 
-`cd` to the js directory.
+`cd` to the js directory on your computer.
 
-then run the following commands.
+then run the following command.
 
 ```
 npm install
+```
+This will install Mocha, which is a cool unit testing library. 
 
+
+*How to run the tests*
+
+To run the tests just run the following commands in the command line:
+
+```
 npm test
 ```
-This will install Mocha, which is a cool unit testing library. All the tests will be written in a .spec.js file right next to the .js file which has the code to be tested.
+
+Other Notes:
+
+All the tests will be written in a .spec.js file right next to the .js file which has the code to be tested.

@@ -3,7 +3,7 @@ const sum = require('./index.js');
 
 describe('add', function () {
 
-	it('will return the the sum of all the input arguments.', function () {
+	it('will return the the sum of all the input arguments', function () {
 
 		assert.equal(2, sum(1,1));
 
