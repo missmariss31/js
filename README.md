@@ -1,6 +1,6 @@
-# Learn git
+# Do Some JavaScript
 
-This is a repository where Jesse and Marissa programmed JavaScript.
+This is a repository where Jesse and Marissa program JavaScript.
 
 ## Yeah, we're going to do JavaScript!!!
 
@@ -21,3 +21,18 @@ This is a repository where Jesse and Marissa programmed JavaScript.
    >      \    /
   <__,--,__|/|_>
 ```
+
+# Getting Started
+
+In the command line
+
+`cd` to the js directory.
+
+then run the following commands.
+
+```
+npm install
+
+npm test
+```
+This will install Mocha, which is a cool unit testing library. All the tests will be written in a .spec.js file right next to the .js file which has the code to be tested.
