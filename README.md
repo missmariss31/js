@@ -1,4 +1,3 @@
 # learn git
 
-I made a change
-This is my own change
+This is a repository where Jesse and Marissa programmed javascript
