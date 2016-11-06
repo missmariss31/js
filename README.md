@@ -25,6 +25,7 @@ This is a repository where Jesse and Marissa program JavaScript.
 # Getting Started
 
 > Note: You will need to intall node.js
+
 > Just download the latest version from https://nodejs.org/en/
 
 In the command line
