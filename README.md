@@ -10,6 +10,7 @@ This is a repository where Jesse and Marissa programmed JavaScript.
 
 ## This is going to be FUN!
 
+```
     ()_()()_()
     / ..)(.. \
  __/  ( || )  \_
@@ -19,3 +20,4 @@ This is a repository where Jesse and Marissa programmed JavaScript.
  \__/    |      |
    >      \    /
   <__,--,__|/|_>
+```
